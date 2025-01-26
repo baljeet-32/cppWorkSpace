@@ -1,0 +1,20 @@
+build/
+
+
+*.o       # Object files
+*.so      # Shared object files
+*.exe     # Executables
+*.dll     # Dynamic libraries (Windows)
+*.out     # Output files
+*.a       # Static libraries
+
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+
+*.log     # Log files
+*.tmp     # Temporary files
+*.bak     # Backup files
+

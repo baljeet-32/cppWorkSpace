@@ -3,7 +3,11 @@ Client:
 **Project Name:** Tic-Tac-Toe Game
 
 **Objective:**  
-We would like to build a console-based Tic-Tac-Toe game that supports both human vs human and human vs AI modes. The AI should be implemented using the Minimax algorithm, and the game should display the board after every move, showing the updated game state. The game should allow for an optimal user experience, ensuring that invalid moves are rejected and proper game-ending conditions (win or draw) are detected.
+We would like to build a console-based Tic-Tac-Toe game that supports both human vs 
+human and human vs AI modes. The AI should be implemented using the Minimax algorithm, 
+and the game should display the board after every move, showing the updated game state. 
+The game should allow for an optimal user experience, ensuring that invalid moves are 
+rejected and proper game-ending conditions (win or draw) are detected.
 
 ---
 
