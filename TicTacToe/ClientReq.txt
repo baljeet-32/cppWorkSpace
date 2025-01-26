@@ -1,0 +1,62 @@
+Client:
+
+**Project Name:** Tic-Tac-Toe Game
+
+**Objective:**  
+We would like to build a console-based Tic-Tac-Toe game that supports both human vs human and human vs AI modes. The AI should be implemented using the Minimax algorithm, and the game should display the board after every move, showing the updated game state. The game should allow for an optimal user experience, ensuring that invalid moves are rejected and proper game-ending conditions (win or draw) are detected.
+
+---
+
+### **Project Requirements:**
+
+**Functional Requirements:**
+1. The game should alternate between two players. One player can be a human and the other an AI.
+2. The game should handle:
+   - Player vs Player
+   - Player vs AI
+3. The AI should use the **Minimax algorithm** to make decisions.
+4. The game should detect:
+   - A winner (when a player places three marks in a row).
+   - A draw (when all spaces are filled and no one has won).
+5. The board should be displayed after each move.
+6. The system should handle invalid moves and prompt the user to make a valid move.
+7. The game should allow for restarting or exiting at any time.
+
+---
+
+### **Non-Functional Requirements:**
+- The system should have a user-friendly console interface.
+- The system should handle edge cases (invalid inputs, empty cells, full board).
+- The game should have an efficient and responsive AI.
+- There should be no graphical interface; this will be a purely console-based application.
+  
+---
+
+### **Expected Deliverables:**
+1. **Code:** The full source code of the project.
+2. **Documentation:**
+   - Instructions on how to run the game.
+   - A README file explaining the design, features, and usage.
+3. **Tests:** Unit tests to verify the core functionality, especially for:
+   - The game flow.
+   - The AI decision-making.
+   - The board and move validation.
+4. **Deployment Package:** A packaged version that can be easily run on any machine (e.g., a zip file with all necessary files).
+
+---
+
+### **Milestones:**
+1. **Week 1:** 
+   - Complete the basic game structure: players, board, and game logic.
+   - Implement player vs player mode.
+   
+2. **Week 2:** 
+   - Implement AI logic with Minimax.
+   - Test player vs AI mode.
+   
+3. **Week 3:** 
+   - Test all edge cases and finalize the project.
+   - Complete unit testing.
+   - Prepare the final delivery package.
+
+---
